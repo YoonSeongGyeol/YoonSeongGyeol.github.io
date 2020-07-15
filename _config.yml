@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "HolyDecison Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HolyDecision Yoon"
@@ -88,12 +88,12 @@ analytics:
 author:
   name             : "HolyDecision Yoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Machine Learning, Image/Video processing, Deep Learning, Classification, Semantic Segmentation, Object Detection,"
+  location         : "Seoul"
+  email            : "ysg5425@gmail.com"
   links:
-    - label: "ysg5425@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
+    - label: ""
+      #icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
